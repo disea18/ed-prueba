@@ -1,1 +1,1 @@
-# ed-prueba
+# primer proyecto en django
